@@ -1,1 +1,1 @@
-node['nunit']['version'] = '2.6.4'
+default['nunit']['version'] = '2.6.4'
